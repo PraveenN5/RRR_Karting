@@ -14,7 +14,7 @@ def connect_db():
             host="mysql-1f1fce20-pgsbssnk-fae1.e.aivencloud.com",
             port=18570,
             user="avnadmin",
-            password="AVNS_Ghcy45yDjyQY0YlA9dM",
+            password="",
             database="defaultdb"
         )
         return conn
